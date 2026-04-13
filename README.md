@@ -21,3 +21,6 @@ Github commits
 
 Github ci
 <img width="960" height="491" alt="image" src="https://github.com/user-attachments/assets/d10d4456-55c5-414c-abb0-4379cf22153d" />
+
+youtube unlisted link
+https://youtu.be/z2lv_83AcT8
