@@ -214,7 +214,7 @@ namespace Mogoale
             {
                 return "bot:  helps protect over five billion devices every day by showing warnings to users when they attempt to navigate to dangerous sites or download dangerous files";
             }
-            else if (input.Contains("watering hole"))
+            else if (input.Contains("password"))
             {
                 return "bot: Keep your browser and all plugins updated and use web content filtering on your network";
             }
