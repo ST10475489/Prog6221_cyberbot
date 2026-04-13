@@ -220,7 +220,7 @@ namespace Mogoale
             }
             else
             {
-                return "bot: I don't recognize that topic. Try asking about Phishing, Malware, or Ransomware.";
+                return "bot: I did't quite understand that. Could you rephrase?";
             }
         
         }
