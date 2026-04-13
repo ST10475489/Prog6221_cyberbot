@@ -216,7 +216,7 @@ namespace Mogoale
             }
             else if (input.Contains("password"))
             {
-                return "bot: Keep your browser and all plugins updated and use web content filtering on your network";
+                return "bot: is a string of characters used to verify the identity of a user during the authentication process.";
             }
             else
             {
