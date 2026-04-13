@@ -112,7 +112,7 @@ namespace Mogoale
             }
             else if (input.Contains("phishing"))
             {
-                return "bot: Enforce account lockout policies and always enable multi-factor authentication";
+                return "bot: is a type of cyberattack where criminals trick individuals into revealing personal or financial information through deceptive messages or websites";
             }
             else if (input.Contains("credential stuffing"))
             {
