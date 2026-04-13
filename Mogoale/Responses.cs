@@ -212,7 +212,7 @@ namespace Mogoale
             }
             else if (input.Contains("safe browsing"))
             {
-                return "bot: Train executives on targeted phishing and always verify wire transfers through a secondary channel";
+                return "bot:  helps protect over five billion devices every day by showing warnings to users when they attempt to navigate to dangerous sites or download dangerous files";
             }
             else if (input.Contains("watering hole"))
             {
