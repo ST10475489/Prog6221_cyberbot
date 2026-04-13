@@ -110,7 +110,7 @@ namespace Mogoale
             {
                 return "bot: Always use HTTPS and avoid connecting to public Wi-Fi without a VPN";
             }
-            else if (input.Contains("brute force"))
+            else if (input.Contains("phishing"))
             {
                 return "bot: Enforce account lockout policies and always enable multi-factor authentication";
             }
