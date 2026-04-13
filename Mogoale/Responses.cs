@@ -210,7 +210,7 @@ namespace Mogoale
             {
                 return "bot: Always use HTTPS and regenerate session tokens after every login";
             }
-            else if (input.Contains("whaling"))
+            else if (input.Contains("safe browsing"))
             {
                 return "bot: Train executives on targeted phishing and always verify wire transfers through a secondary channel";
             }
